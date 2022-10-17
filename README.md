@@ -49,7 +49,7 @@ Save and Quit.
 
 Now reboot your system.
 
-You have now set up Fast Formatter!
+You have set up Fast Formatter!
 
 ## How to use the Fast Formatter
 
