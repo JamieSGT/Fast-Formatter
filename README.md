@@ -1,6 +1,6 @@
 # Fast Formatter 2.0
 
-## A bash script to easily format camera media.
+## A bash script to easily format camera media
 
 Fast Formatter 2.0 was created to make the formatting of camera media (SD, QXD, CF cards, SSDs) easier and quicker. By using this bash script, it will turn any computer into a fast formatter. Once formatted, each card will no longer contain data. The cards will use the file system, `exfat` with the title set to, `UNTITLED.` 
 
@@ -61,7 +61,7 @@ Type `f` or `format`, and press `enter`.
 
 If the format is successful the terminal will show:
 
-`FORMAT SUCCESSFUL! PLEASE REMOVE CARD`
+`FORMAT SUCCESSFUL! PLEASE REMOVE CARD.`
 
 If the format was unsuccessful the terminal will show: 
 
