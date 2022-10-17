@@ -47,8 +47,8 @@ Type ‘f’ or ‘format’ and press enter to format.
 
 If the format is successful the terminal will show:
 
-<span style="color:Green">FORMAT SUCCESSFUL! PLEASE REMOVE CARD.</span>.
+<span style="color:Green">FORMAT SUCCESSFUL! PLEASE REMOVE CARD.</span>
 
 If the format was unsuccessful the terminal will show: 
 
-<span style="color:Red">FORMAT UNSUCCESSFUL! PLEASE TRY AGAIN.</span>.
+<span style="color:Red">FORMAT UNSUCCESSFUL! PLEASE TRY AGAIN.</span>
