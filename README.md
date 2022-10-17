@@ -51,7 +51,7 @@ Now reboot your system.
 
 You have now set up Fast Formatter!
 
-## How to use the Fast Formatter.
+## How to use the Fast Formatter
 
 Insert the card that needs to be formatted.
 
