@@ -24,7 +24,7 @@ To make the shell file actionable run the following command:
 
 sudo chmod +x format.sh
 
-To add Alias to easily format cards by typing 'f' or 'format' and hitting enter edit the file:
+To add an Alias to easily format cards by typing 'f' or 'format' and hitting enter edit the file:
 
 ~/.bashrc
 
