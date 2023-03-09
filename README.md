@@ -11,7 +11,7 @@ To set up Fast Formatter 2.0, please use a computer running the latest version o
 Needed dependencies: `exfat-fuse`. Please download from your repo of choice, in Raspberry Pi OS, you can do this by using the command:
 
 ```
-sudo apt exfat-fuse -y
+sudo apt install exfat-fuse -y
 ```
 
 ## Setup Instructions
