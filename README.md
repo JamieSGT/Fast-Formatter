@@ -6,7 +6,7 @@ Fast Formatter 2.0 was created to make the formatting of camera media (SD, QXD, 
 
 ## Pre-setup notes
 
-To set up Fast Formatter 2.0, please use a computer running the latest version of a linux distro. This code has been tested and run on a Raspberry Pi 3B with Raspberry Pi OS Lite 32 bit 2022-09-22. It should run on most distros, although this is not confirmed. It is recommended that the distro is run in headless mode to give quick and easy access to the terminal. 
+To set up Fast Formatter 2.0, please use a computer running the latest version of a linux distro. This code has been tested and run on a Raspberry Pi 3B with Raspberry Pi OS Lite 32 bit 2022-09-22. It should run on most distros, although this is not confirmed. It is recommended that the distro is run in headless mode to give quick and easy access to the terminal. The user should be called `format`.
 
 Needed dependencies: `exfat-fuse`. Please download from your repo of choice, in Raspberry Pi OS, you can do this by using the command:
 
