@@ -90,6 +90,6 @@ Choose option: 16×32 (framebuffer only)
 There will be a short delay, then reboot the Raspberry Pi.
 ```
 
-##Adding a Button
+## Adding a Button
 
 To add a button follow the `Adding a Button READ ME` in this repository.
