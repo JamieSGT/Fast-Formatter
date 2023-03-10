@@ -22,7 +22,7 @@ Create a shell file named `format.sh` (Nano works well for this.)
 sudo nano format.sh
 ```
 
-Copy and paste the Fast-Formatter-2.0 code.
+Copy and paste the code from `format.sh` in this repository.
 
 Quit and save.
 
