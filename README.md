@@ -67,7 +67,7 @@ If the format was unsuccessful the terminal will show:
 
 `FORMAT UNSUCCESSFUL! PLEASE TRY AGAIN.`
 
-##Quality of Life Improvements
+## Quality of Life Improvements
 
 It is recommended that you set the Raspberry Pi to login automatically to the user `format` by following these instructions:
 
