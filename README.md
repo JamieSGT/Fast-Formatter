@@ -66,3 +66,30 @@ If the format is successful the terminal will show:
 If the format was unsuccessful the terminal will show: 
 
 `FORMAT UNSUCCESSFUL! PLEASE TRY AGAIN.`
+
+##Quality of Life Improvements
+
+It is recommended that you set the Raspberry Pi to login automatically to the user `format` by following these instructions:
+
+```
+Run: sudo raspi-config
+Choose option: 1 System Options
+Choose option: S5 Boot / Auto Login
+Choose option: B2 Console Autologin
+Select Finish, and reboot the Raspberry Pi.
+```
+
+It is also recommended that you increase the text size to largest present by following these instructions: 
+
+```
+Run: sudo dpkg-reconfigure console-setup
+Choose option: UTF-8
+Choose option: Guess optimal character set
+Choose option: Terminus
+Choose option: 16×32 (framebuffer only)
+There will be a short delay, then reboot the Raspberry Pi.
+```
+
+##Adding a Button
+
+To add a button follow the `Adding a Button READ ME` in this repository.
