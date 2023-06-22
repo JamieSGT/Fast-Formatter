@@ -42,7 +42,7 @@ Scroll to bottom of document and add:
 
 ```
 alias format=“./format.sh”
-alias f=“./format.sh
+alias f=“./format.sh"
 ```
 
 Save and Quit.
