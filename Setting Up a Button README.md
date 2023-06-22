@@ -17,7 +17,7 @@ To set up the button on the Raspberry Pi, you need to make sure `Python3` and `G
 sudo apt install python3
 ```
 ```
-sudo apt install gpiozero
+sudo apt install python3-gpiozero
 ```
 
 ## Setting Up the Python Script. 
